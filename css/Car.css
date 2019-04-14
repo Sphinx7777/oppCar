@@ -1,0 +1,15 @@
+.myCar {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+.myCar .startedCar {
+    margin: 10px;
+    font-weight: bold;
+}
+.myCar span {
+    font-weight: bold;
+}
+.myCar .hide {
+    display: none;
+}
